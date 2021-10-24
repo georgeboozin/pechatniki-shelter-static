@@ -1,0 +1,1 @@
+# pechatniki-shelter-static
